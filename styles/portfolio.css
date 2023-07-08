@@ -104,4 +104,11 @@ main{
 }
 .about-info{
     text-align: center;
+    font-weight: bold;
+}
+.info-description{
+    margin-top: -10px;
+}
+#what-i-do{
+    padding: 30px 150px;
 }

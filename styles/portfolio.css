@@ -112,3 +112,25 @@ main{
 #what-i-do{
     padding: 30px 150px;
 }
+/* skills related style */
+.skill-container{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.skill-title{
+    text-align: center;
+    
+}
+.skills{
+    padding: 30px;
+    gap: 40pxpx;
+    box-shadow: 5px 5px 10px;
+
+}
+.img{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+}
